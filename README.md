@@ -22,7 +22,8 @@ This project focuses on **automated security monitoring, compliance enforcement,
 
 *(Include a diagram here if you have one)*
 
----
+---![image](https://github.com/user-attachments/assets/08722083-da90-444d-8bd5-69d85b4e21f6)
+
 
 ## 📋 Prerequisites
 
